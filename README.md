@@ -1,4 +1,4 @@
-# Book Record Management System
+# Book Record Management System(GUI)
 
 ## Description
 
